@@ -21,7 +21,7 @@
         "logged_out": "Logged Out."
     },
     "login" : {
-        "welcomeback": "Welcome Back to <br> Muzica!",
+        "welcomeback": "Welcome Back to <br> Muzica!This is only a test!",
         "message" : "Sign in to continue your portal",
         "demoaccount": "Demo account",
         "site_key": "Your sitekey",
